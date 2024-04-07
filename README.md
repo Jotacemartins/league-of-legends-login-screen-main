@@ -1,4 +1,4 @@
-# LEague of Legends
+# League of Legends
 
 Este é um projeto simples, onde eu criei uma Pagina de Login do jogo League of Legends com base no vídeo do canal: Manual do Dev.
 
